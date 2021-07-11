@@ -1,23 +1,22 @@
 # 20069100042
-the homework（liu）
-
+##the homework（liu）
+'''
 github——基于git，云上的服务器
 git clone……
 git add*（*指任意多的任意字符）
 git commit …m（加标签，描述）
 git push（把本地仓库推到服务器）
 git pull（版本不是最新时要先pull）
+'''
+##mark down 用标记符画图（通过代码制作图表）
 
-mark down 用标记符画图（通过代码制作图表）
+##VScode
 
-VScode
-
-arduino
+##arduino
 数字引脚 0/1
 模拟引脚 范围
 LED灯：长 正 短 负
-执行一遍的放setup（）
-的放loop（）
+执行一遍的放setup（）反复执行的放loop（）
 pinmode（）介绍常用关键字函数库
 
 高——亮 低——灭
